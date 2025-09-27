@@ -4,7 +4,7 @@
 <h3 align="center">💼 A4 Analyst @ Capgemini | ☁️ DevOps & Cloud | 🧑‍💻 Java Full Stack Trainee</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Capgemini_201x_logo.svg/512px-Capgemini_201x_logo.svg.png" width="150" alt="Capgemini Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/1049773?s=200&v=4" width="150" alt="Capgemini Logo"/>
 </p>
 
 <div align="center">
