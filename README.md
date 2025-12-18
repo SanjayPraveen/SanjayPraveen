@@ -4,6 +4,10 @@
 <h3 align="center">💼 A4 Analyst @ Capgemini | ☁️ DevOps & Cloud | 🧑‍💻 Java Full Stack Trainee</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+at+Capgemini;DevOps+and+Cloud;Welcome+to+my+GitHub+Profile!">
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/1049773?s=200&v=4" width="150" alt="Capgemini Logo"/>
 </p>
 
@@ -11,11 +15,9 @@
 
 ## 🎯 About Me
 
-🏢 Currently working at: **Capgemini India**  
-📍 Role: **A4 Analyst**  
-📚 Batch: **JEE Sep 11th Batch 2 HYD**  
-🧑‍💻 Domain: **Java Full Stack (DevOps & Cloud)**  
-🚀 Currently undergoing: **Technical Training & Skill Development**
+🏢 Currently working at: **Capgemini India**
+📍 Role: **Software Engineer**
+🧑‍💻 Domain: **Java, Guidewire, Cloud**
 
 💬 Ask me about: **Java, DevOps Tools, Cloud Fundamentals, GitHub Workflows**
 
@@ -32,6 +34,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="50" />
 </p>
 
 ---
